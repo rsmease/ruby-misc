@@ -1,3 +1,5 @@
+#elementary arithmetic with words
+
 class Arith
   # Code here
   def initialize(number)
